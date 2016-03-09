@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JasminNavigationDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Hello blank fragment1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment2">Hello blank fragment2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment3">Hello blank fragment3</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
